@@ -1,2 +1,3 @@
 My first nano txt file
 IN PYTHON DIRECTORY of GITHUB
+python directory of github in lower-case
