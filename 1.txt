@@ -1,1 +1,2 @@
-My fitst nano txt file
+My first nano txt file
+IN PYTHON DIRECTORY of GITHUB
